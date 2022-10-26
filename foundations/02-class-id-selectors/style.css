@@ -11,3 +11,9 @@
 .odd.extra {
     font-size: 24px;
 }
+
+#fourth_element {
+    background-color: #63ff6e;
+    font-size: 24px;
+    font-weight: bold;
+}
