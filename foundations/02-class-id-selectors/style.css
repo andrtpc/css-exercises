@@ -7,3 +7,7 @@
     color: hsl(212, 100%, 39%);
     font-size: 36px;
 }
+
+.odd.extra {
+    font-size: 24px;
+}
